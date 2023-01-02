@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-    <a href="https://github.com/TheArchitect123"><img src="./kotlin.eps" align="center" width=350/></a>
+    <a href="https://github.com/TheArchitect123"><img src="./kotlin.jpg" align="center" width=350/></a>
 </p>
 
 <p align="center">
