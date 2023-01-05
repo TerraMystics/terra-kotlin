@@ -36,6 +36,11 @@ The Official Kotlin SDK for the Terra Ecosystem (LUNC/USTC/LUNA2)
   <a href="https://github.com/TerraMystics/terra-kotlin">GitHub</a>
 </p>
 
+<br/>
+<p align="center">
+ <a href="https://www.buymeacoffee.com/dangenius" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
+
 TerraKotlin is a Kotlin SDK for writing applications that interact with the Terra blockchain from either Android and/or Kotlin/Java Environments and provides simple abstractions over core data structures, serialization, key management, and API request generation.
 
 ## Features
